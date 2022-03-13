@@ -13,7 +13,7 @@ As you can see, this is my first mod.I barely know any commands in CSS and HTML,
 **Email: zyphuerz@gmail.com**
 
 ## Sources
-1. Youtube HTML source code: view-source:https://www.youtube.com/
+1. Youtube HTML source code: view-source:https://www.youtube.com
 2. [CSS help](https://www.w3schools.com/css/default.asp)
 
 
