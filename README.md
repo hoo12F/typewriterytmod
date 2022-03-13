@@ -9,3 +9,18 @@ So, this is my first mod.I barely know any commands in CSS and HTML, but i decid
 ## Sources
 [YT html source code
 ](view-source:https://www.youtube.com/)
+
+## Installation
+**Method 1**
+ + go to github
+ + click 'explore' on the top left corner of the website
+ + in the "Explore github" menu click "Topics"
+ + Pick a topic from the featured list of topics
+ + Click on this repository
+ + Go to the "<>code" tab
+ + click on the code button on the right
+ + In the clone menu, under the HTTPS tab click "Download Zip"
+
+**Method 2 ( Better Method )**
++ press F12
++ on the first line change the word roboto to Courier.
