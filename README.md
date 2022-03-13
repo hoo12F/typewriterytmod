@@ -13,8 +13,8 @@ As you can see, this is my first mod.I barely know any commands in CSS and HTML,
 **Email: zyphuerz@gmail.com**
 ---
 ### License and copyright
-© BMT
-Produced by the doodooo team
+© BMT<br>
+Produced by the doodooo team<br>
 MIT license
 
 ---
