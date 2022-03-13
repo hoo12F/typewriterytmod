@@ -1,4 +1,6 @@
-# Typewriter Youtube Mod
+# Typewriter
+**_A Youtube Mod Made By an Absolute Dog Water Programmer_**
+---
 *this is a test where i slightly modify youtube's appearance, with no experience in modding stuff.*
 **Version 1.0 (demo)**
 
