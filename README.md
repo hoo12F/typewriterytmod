@@ -18,11 +18,11 @@ Produced by the doodooo team
 
 ---
 ### Contributors
-BMT
-Me
-Me the 2nd
-Me²
-zyphuerz@gmail.com(Me)
+ - BMT
+ - Me
+ - Me the 2nd
+ - Me²
+ - zyphuerz@gmail.com(Me)
 
 ## Sources
 1. Youtube HTML source code: 'view-source:https://www.youtube.com'
