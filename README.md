@@ -13,8 +13,9 @@ As you can see, this is my first mod.I barely know any commands in CSS and HTML,
 **Email: zyphuerz@gmail.com**
 
 ## Sources
-[YT html source code
-](view-source:https://www.youtube.com/)
+[Youtube HTML source code](view-source:https://www.youtube.com/)
+[CSS help](https://www.w3schools.com/css/default.asp)
+
 
 ## Installation
 **Method 1**
