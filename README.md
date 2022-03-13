@@ -15,6 +15,7 @@ As you can see, this is my first mod.I barely know any commands in CSS and HTML,
 ### License and copyright
 © BMT
 Produced by the doodooo team
+MIT license
 
 ---
 ### Contributors
