@@ -1,6 +1,6 @@
 ![Typewriter (1)](https://user-images.githubusercontent.com/96026994/158109324-7690282b-d29d-4c98-816d-73953b623fdc.png)<br>
 **_A Youtube Mod Made By an Absolute Dog Water Programmer_**<br>
-### IMPORTANT!
+## IMPORTANT!
 **I just figured out that it shows my recommended instead of the regular youtube recommended, so the html file will not be available for a while.**<br>
 *this is a test where i slightly modify youtube's appearance, with no experience in modding stuff.*
 **Version 1.0.0 (demo)**
@@ -12,6 +12,9 @@ I created this absolute piece of trash because i wanted to try out modding stuff
 As you can see, this is my first mod.I barely know any commands in CSS and HTML, but i decided to hop in anyway. Don't expect much, cause only know 5% of the whole HTML language and 0.00001% of the whole CSS language, and i did not take any tutorials on modding stuff. I only just fiddled around with the CSS and then decided to just change one thing instead because the damn IDE i was using did not show the final product and the whole thing (probably because my computer is trashy or there was too much lines for the IDE to handle). All the things a modified in the CSS part was ugly anyways, so that doesn't really matter. BTW some things might not work, if you find any bugs please report to me! 
 
 **Email: zyphuerz@gmail.com**
+---
+### Contribution
+To get started, please read the contribution directions & guidelines in the file `contribute.md`
 
 ---
 ### License and copyright
@@ -27,7 +30,7 @@ Produced by the doodooo team<br>
  - Me²
  - zyphuerz@gmail.com(Me)
 
-## Sources
+### Sources
 1. Youtube HTML source code: 'view-source:https://www.youtube.com'
 2. [CSS help](https://www.w3schools.com/css/default.asp)
 
