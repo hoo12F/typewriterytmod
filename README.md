@@ -1,6 +1,7 @@
 ![Typewriter (1)](https://user-images.githubusercontent.com/96026994/158109324-7690282b-d29d-4c98-816d-73953b623fdc.png)<br>
 **_A Youtube Mod Made By an Absolute Dog Water Programmer_**
-
+###IMPORTANT!
+I just figured out that it shows my recommended instead of the regular youtube recommended, so the html file will not be available for a while.
 *this is a test where i slightly modify youtube's appearance, with no experience in modding stuff.*
 **Version 1.0.0 (demo)**
 so. Mods. And a programmer who doesn't know anything about making them but does anyways. For the first time.
@@ -43,7 +44,7 @@ Produced by the doodooo team<br>
  + Go to the "<>code" tab
  + click on the code button on the right
  + In the clone menu, under the HTTPS tab click "Download Zip"
-
+**_For now, please use Method 2._**
 **Method 2 ( Better Method )**
 + press F12
 + on the first line change the word roboto to Courier.
