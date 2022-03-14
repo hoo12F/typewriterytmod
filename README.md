@@ -1,4 +1,4 @@
-![Typewriter](https://user-images.githubusercontent.com/96026994/158108940-a60fd404-b3d3-4e4d-9737-c9f4aa210bad.png)
+![Typewriter (1)](https://user-images.githubusercontent.com/96026994/158109324-7690282b-d29d-4c98-816d-73953b623fdc.png)<br>
 **_A Youtube Mod Made By an Absolute Dog Water Programmer_**
 ---
 *this is a test where i slightly modify youtube's appearance, with no experience in modding stuff.*
