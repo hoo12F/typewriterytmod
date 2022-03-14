@@ -1,7 +1,7 @@
 ![Typewriter (1)](https://user-images.githubusercontent.com/96026994/158109324-7690282b-d29d-4c98-816d-73953b623fdc.png)<br>
 **_A Youtube Mod Made By an Absolute Dog Water Programmer_**<br>
 ### IMPORTANT!
-I just figured out that it shows my recommended instead of the regular youtube recommended, so the html file will not be available for a while.
+**I just figured out that it shows my recommended instead of the regular youtube recommended, so the html file will not be available for a while.**<br>
 *this is a test where i slightly modify youtube's appearance, with no experience in modding stuff.*
 **Version 1.0.0 (demo)**
 so. Mods. And a programmer who doesn't know anything about making them but does anyways. For the first time.
