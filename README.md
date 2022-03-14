@@ -44,7 +44,7 @@ Produced by the doodooo team<br>
  + Go to the "<>code" tab
  + click on the code button on the right
  + In the clone menu, under the HTTPS tab click "Download Zip"
-**_For now, please use Method 2._**
+**_For now, please use Method 2._**<br>
 **Method 2 ( Better Method )**
 + press F12
 + on the first line change the word roboto to Courier.
