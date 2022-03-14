@@ -31,7 +31,7 @@ Produced by the doodooo team<br>
 2. [CSS help](https://www.w3schools.com/css/default.asp)
 
 ## Images/examples
-![Screenshot 2022-03-13 10 34 02 PM](https://user-images.githubusercontent.com/96026994/158111178-f0af2259-8357-4db3-bc46-67d017d56cba.png)
+![Screenshot 2022-03-13 10 36 24 PM](https://user-images.githubusercontent.com/96026994/158111401-5fce2cb5-8cfa-406b-abfa-0245fea30dc3.png)
 
 ## Installation
 **Method 1**
