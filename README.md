@@ -30,6 +30,8 @@ Produced by the doodooo team<br>
 1. Youtube HTML source code: 'view-source:https://www.youtube.com'
 2. [CSS help](https://www.w3schools.com/css/default.asp)
 
+## Images/examples
+![Screenshot 2022-03-13 10 34 02 PM](https://user-images.githubusercontent.com/96026994/158111178-f0af2259-8357-4db3-bc46-67d017d56cba.png)
 
 ## Installation
 **Method 1**
