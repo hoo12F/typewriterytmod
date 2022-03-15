@@ -9,7 +9,7 @@ I created this absolute piece of trash because i wanted to try out modding stuff
 
 
 ### About
-As you can see, this is my first mod.I barely know any commands in CSS and HTML, but i decided to hop in anyway. Don't expect much, cause only know 5% of the whole HTML language and 0.00001% of the whole CSS language, and i did not take any tutorials on modding stuff. I only just played around with the CSS and then decided to just change one thing instead because the IDE i was using did not load some elements and the whole thing (probably because my computer is like a chromebook or there was too much lines for the IDE to handle). All the things a modified in the CSS part was ugly anyways, so that doesn't really matter. By the way some things might not work, if you find any bugs please report to me! 
+As you can see, this is my first mod.I barely know any commands in CSS and HTML, but i decided to hop in anyway. Don't expect much, cause only know 5% of the whole HTML language and 0.00001% of the whole CSS language, and i did not take any tutorials on modding stuff. I only just played around with the CSS and then decided to just change one thing instead because the IDE i was using did not load some elements and the whole thing (probably because my computer is like a chromebook or there was too much lines for the IDE to handle). All the things a modified in the CSS part was ugly anyways, so that doesn't really matter. By the way some things might not work, if you find any bugs please report to me! This mod changes some of the youtube fonts, like the suggestions and time.
 
 **Email: zyphuerz@gmail.com**
 ---
