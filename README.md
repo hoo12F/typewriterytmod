@@ -5,7 +5,7 @@
 *this is a test where i slightly modify youtube's appearance, with no experience in modding stuff.*
 **Version 1.0.0 (demo)**
 so. Mods. And a programmer who doesn't know anything about making them but does anyways. For the first time.
-I created this absolute piece of trash because i wanted to try out modding stuff. There was no effort put into this, and this is just a demo but i just might give up on the entire thing if I'm too lazy to update it. So, yeah, uhhhhhhhhhh read the About ig?
+I created this absolute piece of trash because i wanted to try out modding stuff. There was no effort put into this, and this is just a demo but i just might give up on the entire thing if I'm too lazy to update it.
 
 
 ### About
